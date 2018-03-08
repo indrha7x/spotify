@@ -2,6 +2,10 @@
 Unofficial API's
 Spotify Login and Subscription checking, no API Key required.
 
+# Updates 08-03-2018
+This API is now deprecated.
+
+
 This Class requires Curl extension.
 
 With this Class, you could check if a given account works, and get its subscription.
